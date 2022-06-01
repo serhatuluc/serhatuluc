@@ -1,0 +1,24 @@
+Hi I'm Serhat <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+I am graduated engineer from Istanbul Technical University. I am interested in coding with Python, C, Java. Developing my skills to be full-stack software developer. Soon will be focused on .NET and ReactJs.
+
+:mailbox: Reach me out!
+
+[![Linkedin Badge](https://img.shields.io/badge/-serhat-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhat-uluc/)  [![Mail Badge](https://img.shields.io/badge/-serhatuluccc@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:serhatuluccc@gmail.com)
+
+- 🔭 I’m currently participant of Kodluyoruz Bootcamp Preperation. 
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🤔 I’ll be soon focused on Web Development technologies.
+- 📫 How to reach me: serhatuluccc@gmail.com.
+
+
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serhatuluc)](https://github.com/serhatuluc/github-readme-stats)

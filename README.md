@@ -1,4 +1,4 @@
-Hi I'm Serhat <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+Hi I'm Serhat :wave:
 
 I am graduated engineer from Istanbul Technical University. I am interested in coding with Python, C, Java. Developing my skills to be full-stack software developer. Soon will be focused on .NET and ReactJs.
 

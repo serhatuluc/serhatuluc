@@ -1,6 +1,6 @@
 Hi I'm Serhat :wave:
 
-I am graduated engineer from Istanbul Technical University. I am interested in coding with Python, C, Java. Developing my skills to be full-stack software developer. Soon will be focused on .NET and ReactJs.
+I am graduated engineer from Istanbul Technical University. I am interested in coding with Python, C, Java. Developing my skills to be full-stack software developer.
 
 :mailbox: Reach me out!
 

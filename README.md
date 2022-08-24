@@ -6,7 +6,7 @@ I am an engineer from Istanbul Technical University. I am interested in coding w
 
 [![Linkedin Badge](https://img.shields.io/badge/-serhat-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhat-uluc/)  [![Mail Badge](https://img.shields.io/badge/-serhatuluccc@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:serhatuluccc@gmail.com)
 
-- 🔭 I’m currently participant of Kodluyoruz Bootcamp Preperation. 
+- 🔭 I’m currently participant of Kodluyoruz Bootcamp. 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’ll be soon focused on Web Development technologies.
 - 📫 How to reach me: serhatuluccc@gmail.com.

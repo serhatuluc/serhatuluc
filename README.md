@@ -1,6 +1,6 @@
 Hi I'm Serhat :wave:
 
-I am an engineer from Istanbul Technical University. I am interested in coding with Python, C, Java. Developing my skills to be full-stack software developer.
+I am an Civil engineer from Istanbul Technical University. I am interested in coding with Python, C, Java. Developing my skills to be full-stack software developer.
 
 :mailbox: Reach me out!
 
